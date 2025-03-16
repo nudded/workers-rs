@@ -17,6 +17,7 @@ all-features = true
 
 [dependencies]
 async-trait.workspace = true
+bon = "3.4.0"
 bytes = "1.5"
 chrono.workspace = true
 futures-channel.workspace = true
